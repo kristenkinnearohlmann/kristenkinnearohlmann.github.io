@@ -1,10 +1,10 @@
 # Site settings
-title: 
+title: Creative Coding
 header-img: img/home-bg.png
 email: kristenkinnearohlmann@gmail.com
 copyright_name: kristenkinnearohlmann
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Synthesizing the creative, logical, and analytical into results
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  kristenkinnearohlmann
