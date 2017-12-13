@@ -1,0 +1,42 @@
+---
+layout: post
+title:      "Here we go!"
+date:       2017-12-13 03:33:44 +0000
+permalink:  here_we_go
+---
+
+
+Growing up, I discovered music early, and had "planned" to be a musician. The thing is that I always assumed that I would somehow "make it" - I would be in an orchestra and that's it. All the way through graduate school,  I had no backup plan. I even knew that most musicians don't get a music job; it is a subjective field where many other variables are at play.
+
+My relationship with computers during this time was odd:
+* My mOm had a computer as the yearbook advisor in our private school, so when it was toted home, my sister and I would play DOS games - I'm still not sure how we logged on the computer! 
+* My sister and I "tested" software for our local library - can't remember at all what we did. 
+* I figured out how to play Tetris and write my school papers on our family Mac (might've been the 512K at that point!), so I no longer had to pretend to write rough drafts when I preferred to compose on the spot.
+* I hung out in the non-computer major labs at college - I think I was just collecting fonts!
+* I somehow managed to get a student job supervising those same non-computer major labs - after all, I can rock a toner cartridge with the best of them and I was somehow smarter than the other students because I knew to look under the Apple menu for open programs.
+* I served as the network engineer in my dorm my final year of school - I barely understood Ethernet! - and managed the lab with Macs AND Windows machines (yay, Windows 95!).
+* I took "Honors Computer 101" and learned about databases, sort of.
+* I created websites back in the foggy era of 1995-2002, using the WYSIWYG apps of the day to teach myself HTML. I can't find anything but a later site for my [web design company](http://www.geocities.ws/kkinnea/) - I still have the same philosophy.
+* One of those 1995 websites allowed me to obtain a graduate assistantship in the academic offices during grad school - good thing too, because the music program was so small, there were no assistantships there.
+* I attempted to create dynamic web pages with .idx and .htx files with my supervisor - never could get those things to work!
+* I took a C++ undergrad course - crazy grad student trying to program a gas pump that gave out fuel after the tank was empty!
+
+This random sprinkling of technology preparation is what I took to my now home state, with my now husband, to make it in the adult world. I decided I should go the secretary route of many musicians, since I don't like working with food, until I could win an audition. But somehow, the odd collection of previous experience netted me a report writer job - I basically didn't know anything!
+
+Over the course of 16 years since graduate school, I created more websites, learned Excel, MS Access, VBA, VB6, SQL, how to at least read code in VB.NET and C#, how to be an analyst, how to be a project manager, how to be a solutions architect - but pieces were missing. When I was severed from my job in 2016, I realized the number of pieces were greater than I had thought.
+
+The biggest piece was how to learn. Here I was, with no job, but also with limited prospects, because some of things I worked with I didn't know well enough to be able to apply for a job doing them. Yet I was certain of the fact that, despite my strange history, I really wanted to write code, and I wanted to be sure that my beloved SQL was in the mix. I floundered around for a while until I took the time to write down, in order, what I knew to be true:
+1. I knew and loved and was proficient in SQL
+2. I loved the creativity of websites, and my HTML and CSS, though rusty, were serviceable
+3. I still wanted to fully learn C# and be proficient in it
+
+When you act, what you need comes to you. I started seeing that full-stack web developers knew SQL. I found that my HTML and CSS were in good order and I could learn quickly. I played with some of the other components, like Ruby and Javascript, and found I could make things work with some effort. I found Flatiron School.
+
+So for me, this isn't a Why question. It was a "Yes, this fits and I can do it" statement. I'm weaving all of that history and experience together to form a solid base, no gaps. Here we go!
+
+
+**PS: those old designs!**
+
+_Glad I capture images of these sites - the groups and clubs moved on to other developers and changed everything!_
+
+![CICB](http://www.geocities.ws/kkinnea/images/captures/cicb_cap.gif)![CCHS](http://www.geocities.ws/kkinnea/images/captures/cchs_cap.gif)![Personal Page 3.0?](http://www.geocities.ws/kkinnea/images/captures/eip_cap.gif)![Music](http://www.geocities.ws/kkinnea/images/captures/kao_cap-2.gif)![MN Parrotheads](http://www.geocities.ws/kkinnea/images/captures/stmsp_cap.gif)![UMFA](http://www.geocities.ws/kkinnea/images/captures/umfa_cap.gif)
